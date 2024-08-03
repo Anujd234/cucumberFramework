@@ -22,6 +22,6 @@ Examples:
 |userid | password |
 |ad1    | pwd1     |
 |ad2    | pwd2     |
-|ad3    | pwd3     |
+
 
 
