@@ -16,6 +16,7 @@ public class HomePage extends PageActions {
   {
     super(driver,logger);
     PageFactory.initElements(driver, this);
+    System.out.println("Testing the codes");
   }
 
  
