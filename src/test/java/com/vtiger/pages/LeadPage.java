@@ -18,8 +18,6 @@ public LeadPage(WebDriver driver, ExtentTest logger)
 {
 	   super(driver,logger);
 	   PageFactory.initElements(driver, this);
-
-  System.out.println("Learning git");
 }
 
  

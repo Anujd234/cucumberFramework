@@ -17,7 +17,6 @@ public LoginPage(WebDriver driver, ExtentTest logger)
 {
 	   super(driver,logger);
 	   PageFactory.initElements(driver, this);
-
 }
 
     //private String uid = "user_name";
