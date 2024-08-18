@@ -9,9 +9,6 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class LeadPage extends PageActions {
-	
-	
-	
 
 
 public LeadPage(WebDriver driver, ExtentTest logger)

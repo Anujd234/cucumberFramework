@@ -10,8 +10,6 @@ import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage extends PageActions {
 	
-	
-
 
 public LoginPage(WebDriver driver, ExtentTest logger)
 {
